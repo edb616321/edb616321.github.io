@@ -1,0 +1,72 @@
+
+body {
+
+  background-color: cadetblue;
+}
+* {
+  font-family: 'Fira Sans', sans-serif;
+  color: snow; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: 'Fira Sans', sans-serif;
+  color: var(--color-orange-bright);
+}
+
+h2 {
+  color: var(--color-green-bright);
+}
+
+h3, h4, h5, h6 {
+  color: var(--color-purple-bright);
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Fira Sans', sans-serif;
+  color: var(--color-blue-bright);
+}
+
+a:hover {
+  color: var(--color-red);
+}
+
+p {
+  font-family: 'Fira Sans', sans-serif;
+  color: var(--color-fg);
+}
+
+img {
+  max-width: 100%;
+}
+
+hr {
+  height: 1px;
+  background-color: var(--color-fg);
+  border: none;
+}
+
+pre {
+  padding: 10px;
+  background-color: var(--color-dark1);
+  overflow: auto;
+}
+
+code {
+  font-style: italic;
+  color: var(--color-gray);
+}
+
+.comment {
+  color: var(--color-gray);
+}
+
+.center {
+  text-align: center;
+  padding: 10px;
+}

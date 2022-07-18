@@ -1,0 +1,6 @@
+@import "global.css";
+@import "layout.css";
+
+/* Partials */
+@import "partials/header.css";
+@import "partials/footer.css";
