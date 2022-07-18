@@ -1,0 +1,8 @@
+baseURL = "https://edb616321.github.io"
+
+languageCode = "en-us"
+title = "Edward Brookman"
+enableEmoji = true
+
+[params]
+  description = "Devops and Cloud Engineer"
