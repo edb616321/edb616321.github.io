@@ -10,11 +10,19 @@
 
   <h3 align="center">HUGO PROJECTS</h3>
 
-  <p align="center">
+  <p align="center" >
     Hugo static site generator templates and projects 
     <br />
     
   </p>
+
+  <p align="center">
+    PHASE I - Theme creation from scratch 
+    <br />
+    <br />
+  </p>
+
+
 </div>
 
 
@@ -25,7 +33,7 @@
 
 This repository will include the following Hugo related technologies. 
 
-- Templating
+- Templating, partials
 - Site structure and Markdown.
 - Core Hugo server commands and scripts.
 - Html, CSS, Javascript, variables, functions
@@ -33,7 +41,7 @@ This repository will include the following Hugo related technologies.
 
 There are many advantages of Static site generators such as Hugo. Development speed and site performance are two major benefits. I will be discussing these in more detail as I build the site further. 
 
-This site was built with Hugo and is hosted on github pages. 
+This site-theme was built FROM SCRATCH, and is NOT dependent on an existing theme. Building a site from the ground up is much more challenging and provides a deeper learning experience. **THIS IS PHASE I.** (The core layout and infrastructure.) Phase II will come later with added styling and functionality. 
 
 [Edward Brookman Hugo site](https://edb616321.github.io/)
 
